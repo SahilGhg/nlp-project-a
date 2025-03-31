@@ -48,7 +48,8 @@ The comparative analysis of different models highlights their effectiveness in c
 | Convolutional Neural Networks (CNN)              | 93.1         | 93.1          | 93.1       | 93.0         |
 | CNN-BiLSTM                                       | 93.1         | 93.3          | 93.1       | 93.1         |
 | LSTM (Long Short-Term Memory)                    | 91.1         | 91.2          | 91.1       | 91.1         |
-| BERT (Bidirectional Encoder Representations from Transformers)  | 94.5          | 93.8       | 95.2         | 94.5       |
+| FinBERT (Bidirectional Encoder Representations from Transformers)  | 90.0          | 88.0       | 87.0         | 88.0       |
+| RoBERTa (Robustly Optimized BERT apporach)       | 93.0          | 92.0       | 93.0         | 92.0       |
 
 ### Conclusion:
 This **Market Sentiment Analysis** project highlights the effectiveness of various **Machine Learning**, **Deep Learning**, and **Transformer-based models** in classifying financial news, tweets, and reports into different sentiment categories. The comparative analysis demonstrates that **BERT**, a transformer-based model, achieves the highest **accuracy**, **precision**, and **recall**, outperforming traditional ML models and deep learning architectures like CNN, LSTM, and BiLSTM. By evaluating different approaches, we gain insights into their strengths and limitations, allowing us to select the most optimal model for sentiment classification. The results indicate that while traditional models like SVM and Random Forest perform well, deep learning architectures like LSTMs and BiLSTMs enhance performance significantly. Ultimately, transformer-based models like BERT provide superior results, making them the best choice for sentiment analysis in financial markets.
