@@ -36,6 +36,7 @@ This project investigates the application of natural language processing techniq
   - Convolutional Neural Networks (CNN)
   - LSTM (Long Short-Term Memory)
 * Language Models:
+  - RoBERTa (Robustly Optimized BERT apporach)
   - BERT (Bidirectional Encoder Representations from Transformers)
 
 ### Comparative Analysis:
